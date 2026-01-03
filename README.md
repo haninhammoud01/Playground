@@ -63,4 +63,4 @@
 
 ---
 
-✨ “Hanin’s GitHub playground: all cute, all colorful, all me!” 🌈
+“Hanin’s GitHub playground: all cute, all colorful, all me!” 🌈
