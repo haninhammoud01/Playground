@@ -54,13 +54,4 @@
 
 ---
 
-## 💡 Personal Pro Tips for Me
-
-1. Gunakan `.gitkeep` untuk commit dummy di folder kosong supaya streak aman.  
-2. Fork mini repos tiap minggu → update gallery → boost badge collection.  
-3. Pakai workflow GitHub Actions untuk auto-update streak, mood, & badges.  
-4. Tambahkan GIF atau warna-warni badge supaya playground makin hidup.  
-
----
-
 “Hanin’s GitHub playground: all cute, all colorful, all me!” 🌈
