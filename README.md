@@ -11,7 +11,7 @@
 ![PR Count](https://img.shields.io/badge/Pull-Requests-0-blue?style=for-the-badge)
 ![Issues](https://img.shields.io/badge/Issues-0-orange?style=for-the-badge)
 
-> “Little daily steps, big playful dev vibes!” 💪
+> “Little daily steps, big playful dev vibes!” 
 
 ---
 
@@ -43,12 +43,6 @@
 > Badges auto-update via GitHub Actions 🔥
 
 ---
-
-## 📅 My Daily Commit Tracker
-
-- ✅ Commit tiap hari (dummy commit ok)  
-- 🎨 Update mini projects & badges  
-- 🎉 Celebrate small wins & share playful dev vibes  
 
 > “This is my playground — cute, colorful & alive!” 🌟
 
