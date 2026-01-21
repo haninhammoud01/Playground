@@ -44,8 +44,5 @@
 
 ---
 
-> “This is my playground — cute, colorful & alive!” 🌟
-
----
 
 “Hanin’s GitHub playground: all cute, all colorful, all me!” 🌈
